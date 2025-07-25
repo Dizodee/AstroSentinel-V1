@@ -1,6 +1,0 @@
-streamlit
-pandas
-numpy
-yfinance
-tensorflow-cpu==2.15.0  # Lighter version, works on Python 3.10
-scikit-learn
