@@ -1,5 +1,4 @@
-### Python ###
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,22 +19,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-
-### Environments ###
+# Environments
 .env
 .venv
 env/
@@ -44,54 +30,11 @@ ENV/
 env.bak/
 venv.bak/
 
-### Streamlit ###
-.streamlit/
-secrets.toml
-
-### Data Files ###
-*.csv
-*.pkl
-*.pickle
-*.h5
-*.model
-*.json
-*.feather
-*.parquet
-*.db
-*.sqlite
-
-### API Keys ###
-*.env
-*.key
-*.secret
-
-### IDE ###
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*.sublime-workspace
-*.sublime-project
 
-### Jupyter ###
-.ipynb_checkpoints/
-*.ipynb
-
-### OS ###
-.DS_Store
-Thumbs.db
-
-### Logs ###
-*.log
-logs/
-
-### Weights/Binaries ###
-*.bin
-*.pt
-*.onnx
-*.tflite
-
-### Docker ###
-docker-compose.yml
-docker-compose.*.yml
-.dockerignore
+# Streamlit
+.streamlit/
