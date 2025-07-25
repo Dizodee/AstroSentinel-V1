@@ -17,8 +17,8 @@ load_dotenv()
 # ========================
 # SHARED CONFIGURATION
 # ========================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7402279828:AAEM6PgsXVPinsmY66gX5scfjM1E2TpFi-4")
-ADMIN_ID = os.getenv("ADMIN_ID", "6009142803")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "740279828:AAEM6PgsXVPinsmY66gX5scfjM1E2TpFi-4")
+ADMIN_ID = os.getenv("ADMIN_ID", "609142803")
 CYRUS_ID = os.getenv("CYRUS_ID", "551975957")
 HARDY_ID = os.getenv("HARDY_ID", "537719420")
 ANYEBE_CHANNEL_ID = os.getenv("ANYEBE_CHANNEL_ID", "-100277534340")
